@@ -1,0 +1,22 @@
+{
+  "name": "hemidi_tranmanhdung_p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhdung1403/Hedimi_TranManhDung_P4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manhdung1403/Hedimi_TranManhDung_P4/issues"
+  },
+  "homepage": "https://github.com/manhdung1403/Hedimi_TranManhDung_P4#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
